@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+}
+ div.card{
+
+    background-color: lightgrey;
+    
+}
+ div.card>img{
+   
+    margin: 30px 400px;
+    width: 20%;
+    height: 250px;
+    
+ }
+  div.card>p{
+    color: black;
+    margin-left: 400px;
+  }
